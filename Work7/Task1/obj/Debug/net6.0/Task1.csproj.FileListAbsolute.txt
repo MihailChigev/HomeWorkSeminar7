@@ -1,0 +1,15 @@
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/bin/Debug/net6.0/Task1
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/bin/Debug/net6.0/Task1.deps.json
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/bin/Debug/net6.0/Task1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/bin/Debug/net6.0/Task1.pdb
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/refint/Task1.dll
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.pdb
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/home/artem/Рабочий стол/SeminarC#1/HomeWorkSeminar7/Work7/Task1/obj/Debug/net6.0/ref/Task1.dll
